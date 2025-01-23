@@ -1,0 +1,13 @@
+header{
+    display: flex;
+}
+ul{
+    display: flex;
+}
+li{
+    padding: 5px;  
+    text-decoration: none; 
+}
+a{
+    text-decoration: none;
+}
