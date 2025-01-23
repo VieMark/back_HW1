@@ -1,0 +1,19 @@
+# Системные файлы Mac
+.DS_Store
+
+# Зависимости
+node_modules/
+
+# Файлы сред разработки
+.env
+
+# Логи
+*.log
+
+# Папки сборки
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
